@@ -1,0 +1,7 @@
+.env
+data/
+.venv/
+bot.log
+__pycache__/
+*.pyc
+baslat.bat.yeni
